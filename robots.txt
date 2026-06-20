@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /soumission-salle-de-bain/
+
+Sitemap: https://soumission-douche.ca/sitemap-index.xml
